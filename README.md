@@ -2,7 +2,7 @@
 
 ## What is it?
 
-A isomorphic, bullet-proof, ninja-ready route parsing, matching, and reversing library for Javascript in Node and the browser. Uses RE2 for non-polynomial time regex evaluations to prevent ReDoS.
+A bullet-proof, ninja-ready route parsing, matching, and reversing library for Javascript in Node.js. Uses RE2 for non-polynomial time regex evaluations to prevent ReDoS.
 
 ## Is it any good?
 
@@ -16,7 +16,7 @@ You want to write routes in a way that makes sense, capture named parameters, ad
 ## How do I install it?
 
 ```Shell
-npm install --save route-parser
+npm install --save safe-route-parser
 ```
 
 ## How do I use it?
