@@ -62,5 +62,7 @@
     "webpack": "~1.12.14",
     "webpack-dev-server": "~1.14.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "re2": "^1.18.0"
+  }
 }
