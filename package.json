@@ -1,6 +1,6 @@
 {
-  "name": "route-parser",
-  "version": "0.0.5",
+  "name": "safe-route-parser",
+  "version": "0.0.1",
   "description": "A isomorphic, bullet-proof, ninja-ready route parsing, matching, and reversing library for Javascript in Node and the browser. ",
   "keywords": [
     "url",
@@ -32,7 +32,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "mocha && karma start --singleRun",
+    "test": "mocha",
     "test-node": "mocha",
     "test-client": "karma start --singleRun",
     "compile-parser": "scripts/compile_parser.js",
